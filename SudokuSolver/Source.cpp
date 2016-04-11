@@ -13,5 +13,3 @@ void arrayworkingstuff()
 	int board[9][9] = null; 
 	for
 }
-
-
